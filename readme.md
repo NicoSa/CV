@@ -8,7 +8,7 @@ Programming bootcamp graduate and now Software Developer who wants to continue d
 
 About
 ---------------
-I´m a fast learning and enthusiastic guy. After a few months of "Hello, World" apps  on the side of working as a self-employed Audio Engineer for the last years, I decided to get serious about programming and accelerated my learning-process by joining Makers Academy in London. After completing the program earning two awards I started to work at Shutl in London.
+I'm a fast learning and enthusiastic guy. After a few months of "Hello, World" apps  on the side of working as a self-employed Audio Engineer for the last years, I decided to get serious about programming and accelerated my learning-process by joining Makers Academy in London. After completing the program earning two awards I started to work at Shutl in London.
 
 
 ### Skillset
