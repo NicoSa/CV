@@ -104,8 +104,6 @@ Interests
 Contact me
 -------
 
-
-- Phone: 07432 865 747
 - [nico@nicosaueressig.de]
 - [Twitter]
 - [LinkedIn]
