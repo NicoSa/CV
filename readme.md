@@ -49,8 +49,11 @@ Experience
 
 Publications
 ---------
+### Nico Learns Coding
+**2013&mdash;2014**
 
-  - My personal [blog]
+  - I wrote my [blog] from the very beginning of my journey to becoming a Software Developer until I got my first job in one of London's top Ruby workshops and startups
+  - Earned a "Best Blog" award at Makers Academy
 
 Volunteering
 ---------
@@ -104,7 +107,7 @@ Interests
 Contact me
 -------
 
-- [nico@nicosaueressig.de]
+- [github@nicosaueressig.de]
 - [Twitter]
 - [LinkedIn]
 - [Github]
@@ -115,7 +118,7 @@ Contact me
 
   [Makers Academy]:http://www.makersacademy.com
   
-  [nico@nicosaueressig.de]: mailto:nico@nicosaueressig
+  [github@nicosaueressig.de]: mailto:github@nicosaueressig
   [GitHub]:https://github.com/nicosa
   [LinkedIn]:http://uk.linkedin.com/in/nicosaueressig
   [Twitter]:http://twitter.com/nicolrnscodin
