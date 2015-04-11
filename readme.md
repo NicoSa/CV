@@ -3,9 +3,6 @@ Nico Saueressig
 
 Programming bootcamp graduate and now Software Developer who wants to continue developing his skills in agile environments.
 
-- You want to head right into my code? Please visit my [Repositories on Github]! 
-- You want to know more about me as a person? Please visit my [Blog]!
-
 About
 ---------------
 I'm a fast learning and enthusiastic guy. After a few months of "Hello, World" apps  on the side of working as a self-employed Audio Engineer for the last years, I decided to get serious about programming and accelerated my learning-process by joining Makers Academy in London. After completing the program earning two awards I started to work at Shutl in London.
@@ -15,14 +12,12 @@ I'm a fast learning and enthusiastic guy. After a few months of "Hello, World" a
 
   - TDD, BDD
   - Pair programming
-  - SCRUM 
-  - Kanban
+  - Agile practices
   - Ruby
+  - Swift/iOS development
   - Sinatra 
   - Angular JS
   - Coffeescript
-  - Swift
-  - APIs and microservices
   - Clojure 
   - Ruby on Rails
   - PostgreSQL
@@ -37,15 +32,11 @@ Experience
 ### Software Engineer at Shutl Ltd (eBay inc.), London United Kingdom
 **2014&mdash;today**
 
-  - Developing new mobile and web applications in an agile team
+  - Developing new mobile and web applications in an Agile environment 
+  - Maintaining and extending existing services
 
 ### Freelance Audio Engineer and Music Producer, Frankfurt Germany
-**2010&mdash;2014**
-
-  - Recording, Editing, Mixing and Mastering audio.
-  - Communication with artists, labels and producers.
-  - Musical production and co-production.
-  - Managing and promoting my own business.
+**2010&mdash;2013**
 
 Publications
 ---------
@@ -58,7 +49,7 @@ Publications
 Volunteering
 ---------
   
-  - Teaching people to code at Codebar.io 
+  - Teaching underrepresented people in the tech industry to code at Codebar.io 
 
 Code
 -------------
@@ -85,19 +76,10 @@ Education
  - Conceived marketing folder including Google AdWords campaign for Gesundheitsoffice GmbH company.
  - Developed a businessplan for online social network Musogate.com.
 
-### University of Mannheim, Germany
-**Bachelor of Arts in History and Philosophy, three semesters 2008&mdash; 2010**
- - Learned how to research, validate and record data in a proficient way.
-
-### University of Applied Science Mannheim, Germany
-**Bachelor of Science Computer Science, one semester 2008**
- - Gained insight into basics of Computer Science.
-
 Interests
 ---------
 
 - Writing maintainable, readable and well tested code
-- Lifelong learning
 - Agile practices
 - Lean startups and the business side of tech
 - Music & Entertainment
