@@ -5,54 +5,64 @@ Programming bootcamp graduate and now Software Developer who wants to continue d
 
 About
 ---------------
-I'm a fast learning and enthusiastic guy. After a few months of "Hello, World" apps  on the side of working as a self-employed Audio Engineer for the last years, I decided to get serious about programming and accelerated my learning-process by joining Makers Academy in London. After completing the program earning two awards I started to work at Shutl in London.
+I am a fast learning and enthusiastic guy. After a few months of "Hello, World" apps  on the side of working as a freelancing Audio Engineer and student, I decided to get serious about programming and accelerated my learning-process by moving to London and joining Makers Academy. After completing the program earning two awards I started to work at Shutl/Ebay in London.
 
 
-### Skillset
-
+Skillset
+---------------
   - TDD, BDD
   - Pair programming
   - Agile practices
   - Ruby
   - Swift/iOS development
-  - Sinatra 
+  - Sinatra
   - Angular JS
   - Coffeescript
-  - Clojure 
+  - Clojure
   - Ruby on Rails
   - PostgreSQL
   - MongoDB
   - Testing with Cucumber, Frank, Rspec, Jasmine, Midje and Capybara
   - Continuous delivery using Git, Semaphore and Rundeck, Chef
-  - HTML5, CSS3, Bootstrap
+  - HTML5, CSS3, Sketch, Bootstrap
   - APIs and Microservices
 
 Experience
 ----------
-### Software Engineer at Shutl Ltd (eBay inc.), London United Kingdom
-**2014&mdash;today**
+### Software Engineer at Shutl Ltd (eBay inc.), London, United Kingdom
+**Sept 2014&mdash;present**
 
-  - Developing new mobile and web applications in an Agile environment 
+  - Developing new mobile and web applications in an Agile environment
   - Maintaining and extending existing services
 
-### Freelance Audio Engineer and Music Producer, Frankfurt Germany
+### Freelance Audio Engineer and Music Producer, Frankfurt, Germany
 **2010&mdash;2013**
 
 Publications
 ---------
 ### Nico Learns Coding
-**2013&mdash;2014**
+**Oct 2013&mdash; Aug 2014**
 
   - I wrote my [blog] from the very beginning of my journey to becoming a Software Developer until I got my first job in one of London's top Ruby workshops and startups
   - Earned a "Best Blog" award at Makers Academy
 
+### Ebay Techblog
+**Apr 2015 - present**
+
+  - 15/04/2015: [Functional iOS testing in Swift]
+
+
 Volunteering
 ---------
-  
-  - Teaching underrepresented people in the tech industry to code at Codebar.io 
+### Codebar.io
+**Nov 2014&mdash;present**
+
+  - Teaching underrepresented people in the tech industry to code  
 
 Code
 -------------
+
+  - Projects from my time at Makers Academy
 
 | [Angry Kitty] | [Pizza Poser] | [Chitter] |
 |:--------------- |:-------- |:--------- |
@@ -71,10 +81,10 @@ Education
   - Final project: [Angry Kitty] - Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.
 
 ### Middlesex University, London
-**Bachelor of Arts(Hons.) Audio Production 2010&mdash; 2013**
+**Bachelor of Arts(Hons.) Audio Production: 2010&mdash; 2013**
  - Studied both the practical and theoretical part of modern Audio Production.
  - Conceived marketing folder including Google AdWords campaign for Gesundheitsoffice GmbH company.
- - Developed a businessplan for online social network Musogate.com.
+ - Developed a classic businessplan for online social network Musogate.com.
 
 Interests
 ---------
@@ -99,7 +109,7 @@ Contact me
   [Angry Kitty]:https://github.com/NicoSa/Angry-Kitty
 
   [Makers Academy]:http://www.makersacademy.com
-  
+  [Functional iOS testing in Swift]:http://www.ebaytechblog.com/2015/04/15/functional-ios-testing-in-swift/
   [github@nicosaueressig.de]: mailto:github@nicosaueressig
   [GitHub]:https://github.com/nicosa
   [LinkedIn]:http://uk.linkedin.com/in/nicosaueressig
