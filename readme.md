@@ -14,17 +14,17 @@ Skillset
   - Pair programming
   - Agile practices
   - Ruby
-  - Swift/iOS development
+  - Ruby on Rails
   - Sinatra
+  - Swift/iOS development
   - Angular JS
   - Coffeescript
   - Clojure
-  - Ruby on Rails
-  - PostgreSQL
-  - MongoDB
+  - SQL
+  - No-SQL databases like MongoDB or Neo4J
   - Testing with Cucumber, Frank, Rspec, Jasmine, Midje and Capybara
   - Continuous delivery using Git, Semaphore and Rundeck, Chef
-  - HTML5, CSS3, Sketch, Bootstrap
+  - HTML5, CSS3, Sketch, Bootstrap, Foundation
   - APIs and Microservices
 
 Experience
