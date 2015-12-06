@@ -1,11 +1,14 @@
 Nico Saueressig
 =========
 
-Programming bootcamp graduate and now Software Developer who wants to continue developing his skills in agile environments.
+Software Developer who wants to continue developing and broadening his skills in agile environments.
 
 About
 ---------------
-I am a fast learning and enthusiastic guy. After a few months of "Hello, World" apps, on the side of working as a freelancing Audio Engineer and student, I decided to get serious about programming and accelerated my learning-process by moving to London and joining Makers Academy. After completing the program earning two awards I started to work at Shutl/Ebay in London.
+
+I work as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering same-day delivery service that was aquired by Ebay inc. in 2013. 
+Before I joined Shutl in September 2014 I had enrolled in a London based programming bootcamp called Makers Academy. On completion of the program I earned awards for 'Best blog' and 'Most Entertaining Person'. 
+Previously I was an Audio Engineer and Freelancer in Frankfurt, Germany and had been tinkering with programming for some time.
 
 
 Skillset
@@ -23,19 +26,29 @@ Skillset
   - MySQL
   - No-SQL databases like MongoDB or Neo4J
   - Testing with Cucumber, Frank, Rspec, Jasmine, Midje and Capybara
-  - Continuous delivery using Git, Semaphore with Rundeck and Chef
+  - AWS
+  - Monitoring with Nagios, Riemann, Airbreak, Sentry
+  - Continuous delivery using Semaphore, Jenkins, Rundeck and Chef
   - HTML5, CSS3, Sketch, Bootstrap, Foundation
-  - APIs and microservice architectures
+  - REST APIs and microservice architectures
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 Experience
 ----------
-### Software Engineer at Shutl Ltd (eBay inc.), London, United Kingdom
+### Software Engineer at Shutl Ltd (Ebay inc.), London, United Kingdom
 **Sept 2014&mdash;present**
 
-  - Developing new mobile and web applications in an Agile environment
+  - Developing new mobile and web applications in an agile team
   - Maintaining and extending existing services
+  - Regular on-call duty as Platform Engineer
 
-### Freelance Audio Engineer and Music Producer, Frankfurt, Germany
+### Freelance Audio Engineer, Frankfurt, Germany
 **2010&mdash;2013**
 
 Code
@@ -54,6 +67,14 @@ Code
 |:--------------- |:-------- |:--------- |
 | Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.| Ruby on Rails Instagram clone that is focussed on posting pictures of Pizzas. | Basic Sinatra Twitter clone, frontend developed without using Bootstrap. |
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 Publications
 ---------
 ### Nico Learns Coding
@@ -61,6 +82,7 @@ Publications
 
   - I wrote my [blog] from the very beginning of my journey to becoming a Software Developer until I got my first job in one of London's top Ruby workshops and startups
   - Earned a "Best Blog" award at Makers Academy
+  - Still about 500 unique visitors every month
 
 ### Ebay Techblog
 **Apr 2015 - present**
@@ -73,6 +95,23 @@ Volunteering
 **Nov 2014&mdash;present**
 
   - Teaching underrepresented people in the tech industry to code  
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 Education
 ----------
@@ -87,6 +126,7 @@ Education
 
 ### Middlesex University, London
 **Bachelor of Arts(Hons.) Audio Production: 2010&mdash; 2013**
+
  - Studied both the practical and theoretical part of modern Audio Production.
  - Conceived marketing folder including Google AdWords campaign for Gesundheitsoffice GmbH company.
  - Developed a classic businessplan for online social network Musogate.com.
@@ -98,6 +138,12 @@ Interests
 - Agile practices
 - Lean startups and the business side of tech
 - Music, Entertainment, Combat Sports
+
+Languages
+---------
+
+- German (native proficiency)
+- English (full professional proficiency)
 
 Contact me
 -------
