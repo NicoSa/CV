@@ -5,7 +5,7 @@ Programming bootcamp graduate and now Software Developer who wants to continue d
 
 About
 ---------------
-I am a fast learning and enthusiastic guy. After a few months of "Hello, World" apps  on the side of working as a freelancing Audio Engineer and student, I decided to get serious about programming and accelerated my learning-process by moving to London and joining Makers Academy. After completing the program earning two awards I started to work at Shutl/Ebay in London.
+I am a fast learning and enthusiastic guy. After a few months of "Hello, World" apps, on the side of working as a freelancing Audio Engineer and student, I decided to get serious about programming and accelerated my learning-process by moving to London and joining Makers Academy. After completing the program earning two awards I started to work at Shutl/Ebay in London.
 
 
 Skillset
@@ -18,14 +18,14 @@ Skillset
   - Sinatra
   - Swift/iOS development
   - Angular JS
-  - Coffeescript
+  - Javascript/Coffeescript
   - Clojure
-  - SQL
+  - MySQL
   - No-SQL databases like MongoDB or Neo4J
   - Testing with Cucumber, Frank, Rspec, Jasmine, Midje and Capybara
-  - Continuous delivery using Git, Semaphore and Rundeck, Chef
+  - Continuous delivery using Git, Semaphore with Rundeck and Chef
   - HTML5, CSS3, Sketch, Bootstrap, Foundation
-  - APIs and Microservices
+  - APIs and microservice architectures
 
 Experience
 ----------
@@ -62,6 +62,13 @@ Volunteering
 Code
 -------------
 
+  - Public projects I work and have worked on for Shutl
+
+| [Shutl.com] | [Shutl iOS app]|
+|:--------------- |:-------- |
+| New corporate website, fully responsive and test-driven Rails app that allows C2C customers to book Shutl same day deliveries.| IOS app written in Swift with a Clojure backend that allows users to track their deliveries. | 
+  
+
   - Projects from my time at Makers Academy
 
 | [Angry Kitty] | [Pizza Poser] | [Chitter] |
@@ -77,8 +84,8 @@ Education
 
   - Highly selective 12 week full-time course.
   - Focussed on Pair Programming, Test Driven Development and Agile practices.
-  - Teaching programming with Ruby, Ruby on Rails.
-  - Final project: [Angry Kitty] - Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.
+  - Teaching programming with Ruby, Ruby on Rails and Javascript.
+  - Graduation project: [Angry Kitty] - Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.
 
 ### Middlesex University, London
 **Bachelor of Arts(Hons.) Audio Production: 2010&mdash; 2013**
@@ -89,12 +96,10 @@ Education
 Interests
 ---------
 
-- Writing maintainable, readable and well tested code
+- Writing maintainable, readable and well-tested code
 - Agile practices
 - Lean startups and the business side of tech
-- Music & Entertainment
-- Combat Sports
-
+- Music, Entertainment, Combat Sports
 
 Contact me
 -------
