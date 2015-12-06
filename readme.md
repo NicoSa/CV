@@ -6,8 +6,8 @@ Software Developer who wants to continue developing and broadening his skills in
 About
 ---------------
 
-I work as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering same-day delivery service that was aquired by Ebay inc. in 2013. 
-Before I joined Shutl in September 2014 I had enrolled in a London based programming bootcamp called Makers Academy. On completion of the program I earned awards for 'Best blog' and 'Most Entertaining Person'. 
+I work as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering same-day delivery service that was aquired by Ebay inc. in 2013.
+Before I joined Shutl in September 2014 I had enrolled in a London based programming bootcamp called Makers Academy. On completion of the program I earned awards for 'Best blog' and 'Most Entertaining Person'.
 In a past life I was an Audio Engineer and Freelancer in Frankfurt, Germany and had been tinkering with programming for some time.
 
 
@@ -30,13 +30,7 @@ Skillset
   - Monitoring with Nagios, Riemann, Airbreak, Sentry
   - Continuous delivery using Semaphore, Jenkins, Rundeck and Chef
   - HTML5, CSS3, Sketch, Bootstrap, Foundation
-  - REST APIs and microservice architectures
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+  - REST APIs and microservice architecture
 
 
 Experience
@@ -58,21 +52,14 @@ Code
 
 | [Shutl.com] | [Shutl iOS app]|
 |:--------------- |:-------- |
-| New corporate website, fully responsive and test-driven Rails app that allows C2C customers to book Shutl same day deliveries.| IOS app written in Swift with a Clojure backend that allows users to track their deliveries. | 
-  
+| New corporate website, fully responsive and test-driven Rails app that allows C2C customers to book Shutl same day deliveries.| IOS app written in Swift with a Clojure backend that allows users to track their deliveries. |
+
 
   - Projects from my time at Makers Academy
 
 | [Angry Kitty] | [Pizza Poser] | [Chitter] |
 |:--------------- |:-------- |:--------- |
 | Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.| Ruby on Rails Instagram clone that is focussed on posting pictures of Pizzas. | Basic Sinatra Twitter clone, frontend developed without using Bootstrap. |
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
 Publications
@@ -95,23 +82,6 @@ Volunteering
 **Nov 2014&mdash;present**
 
   - Teaching underrepresented people in the tech industry to code  
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 Education
 ----------
