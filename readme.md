@@ -38,27 +38,6 @@ Experience
 ### Freelance Audio Engineer and Music Producer, Frankfurt, Germany
 **2010&mdash;2013**
 
-Publications
----------
-### Nico Learns Coding
-**Oct 2013&mdash; Aug 2014**
-
-  - I wrote my [blog] from the very beginning of my journey to becoming a Software Developer until I got my first job in one of London's top Ruby workshops and startups
-  - Earned a "Best Blog" award at Makers Academy
-
-### Ebay Techblog
-**Apr 2015 - present**
-
-  - 15/04/2015: [Functional iOS testing in Swift]
-
-
-Volunteering
----------
-### Codebar.io
-**Nov 2014&mdash;present**
-
-  - Teaching underrepresented people in the tech industry to code  
-
 Code
 -------------
 
@@ -75,9 +54,28 @@ Code
 |:--------------- |:-------- |:--------- |
 | Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.| Ruby on Rails Instagram clone that is focussed on posting pictures of Pizzas. | Basic Sinatra Twitter clone, frontend developed without using Bootstrap. |
 
+Publications
+---------
+### Nico Learns Coding
+**Oct 2013&mdash; Aug 2014**
+
+  - I wrote my [blog] from the very beginning of my journey to becoming a Software Developer until I got my first job in one of London's top Ruby workshops and startups
+  - Earned a "Best Blog" award at Makers Academy
+
+### Ebay Techblog
+**Apr 2015 - present**
+
+  - 15/04/2015: [Functional iOS testing in Swift]
+
+Volunteering
+---------
+### Codebar.io
+**Nov 2014&mdash;present**
+
+  - Teaching underrepresented people in the tech industry to code  
+
 Education
 ----------
-
 
 ### [Makers Academy], London
 **Programming Bootcamp: March&mdash;June 2014**
