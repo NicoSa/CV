@@ -8,7 +8,7 @@ About
 
 I work as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering same-day delivery service that was aquired by Ebay inc. in 2013.
 Before I joined Shutl in September 2014 I had enrolled in a London based programming bootcamp called Makers Academy. On completion of the program I earned awards for 'Best blog' and 'Most Entertaining Person'.
-In a past life I was an Audio Engineer and Freelancer in Frankfurt, Germany and had been tinkering with programming for some time.
+Previously I was an Audio Engineer and Freelancer in Frankfurt, Germany and had been tinkering with programming for some time.
 
 
 Skillset
