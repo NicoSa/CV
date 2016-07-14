@@ -20,8 +20,8 @@ Skillset
   - Ruby on Rails
   - Sinatra
   - Swift/iOS development
-  - Angular JS
-  - Javascript/Coffeescript
+  - Angular JS 1
+  - Javascript
   - Clojure
   - MySQL
   - No-SQL databases like MongoDB or Neo4J
@@ -30,7 +30,7 @@ Skillset
   - Monitoring with Nagios, Riemann, Airbreak, Sentry
   - Continuous delivery using Semaphore, Jenkins, Rundeck and Chef
   - HTML5, CSS3, Sketch, Bootstrap, Foundation
-  - REST APIs and microservice architecture
+  - REST APIs and microservice architectures
 
 
 Experience
