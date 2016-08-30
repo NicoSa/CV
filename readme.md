@@ -13,25 +13,35 @@ Previously I was an Audio Engineer and Freelancer in Frankfurt, Germany and had 
 
 Skillset
 ---------------
+**Significant experience**
+
   - TDD, BDD
   - Pair programming
   - Agile practices
   - Ruby
   - Ruby on Rails
   - Sinatra
-  - Swift/iOS development
-  - Angular JS 1
-  - Javascript
-  - Clojure
   - MySQL
-  - No-SQL databases like MongoDB or Neo4J
-  - Testing with Cucumber, Frank, Rspec, Jasmine, Midje and Capybara
+  - MongoDB
+  - Rspec, Cucumber, Capybara
   - AWS
-  - Monitoring with Nagios, Riemann, Airbreak, Sentry
-  - Continuous delivery using Semaphore, Jenkins, Rundeck and Chef
+  - Chef, Rundeck, Jenkins, Semaphore
+  - Riemann, Nagios
+  - Airbreak, Sentry
+  - InfluxDB
+  - Devops and infrastructure
+  - Microservice architectures
+
+**Less significant experience**
+  
+  - Javascript, Jasmine
+  - Angular JS 1
+  - Swift/iOS development, Frank, XCtest
+  - Clojure, Midje
+  - Java
+  - Neo4J
   - HTML5, CSS3, Sketch, Bootstrap, Foundation
   - REST APIs and microservice architectures
-
 
 Experience
 ----------
