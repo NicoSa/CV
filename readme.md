@@ -28,9 +28,7 @@ Skillset
   - Chef, Rundeck, Jenkins, Semaphore
   - Riemann, Nagios
   - Airbreak, Sentry
-  - InfluxDB
   - Devops and infrastructure
-  - Microservice architectures
 
 **Less significant experience**
   
