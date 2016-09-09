@@ -6,40 +6,38 @@ Software Developer who wants to continue developing and broadening his skills in
 About
 ---------------
 
-I work as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering same-day delivery service that was aquired by Ebay inc. in 2013.
+I work as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering same-day delivery service that was acquired by Ebay inc. in 2013.
 Before I joined Shutl in September 2014 I had enrolled in a London based programming bootcamp called Makers Academy. On completion of the program I earned awards for 'Best blog' and 'Most Entertaining Person'.
 Previously I was an Audio Engineer and Freelancer in Frankfurt, Germany and had been tinkering with programming for some time.
 
 
 Skillset
 ---------------
-**Significant experience**
+**From more to less experience**
 
+  - Ruby
+  - Sinatra
+  - Ruby on Rails
   - TDD, BDD
   - Pair programming
   - Agile practices
-  - Ruby
-  - Ruby on Rails
-  - Sinatra
+  - Rspec, Cucumber, Capybara
+  - Javascript
   - MySQL
   - MongoDB
-  - Rspec, Cucumber, Capybara
-  - AWS
-  - Chef, Rundeck, Jenkins, Semaphore
-  - Riemann, Nagios
-  - Airbreak, Sentry
+  - REST APIs and microservice architectures
   - Devops and infrastructure
-
-**Less significant experience**
-  
-  - Javascript, Jasmine
+  - AWS, Chef, Rundeck, Jenkins, Semaphore
+  - Riemann, Nagios
+  - Airbreak, Sentry, InfluxDB
+  - Google Analytics
+  - HTML5, CSS3, Bootstrap, Foundation
   - Angular JS 1
   - Swift/iOS development, Frank, XCtest
   - Clojure, Midje
   - Java
   - Neo4J
-  - HTML5, CSS3, Sketch, Bootstrap, Foundation
-  - REST APIs and microservice architectures
+
 
 Experience
 ----------
@@ -69,7 +67,6 @@ Code
 |:--------------- |:-------- |:--------- |
 | Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.| Ruby on Rails Instagram clone that is focussed on posting pictures of Pizzas. | Basic Sinatra Twitter clone, frontend developed without using Bootstrap. |
 
-
 Publications
 ---------
 ### Nico Learns Coding
@@ -89,7 +86,7 @@ Volunteering
 ### Codebar.io
 **Nov 2014&mdash;present**
 
-  - Teaching underrepresented people in the tech industry to code  
+  - Teaching underrepresented people in the tech industry to code
 
 Education
 ----------
