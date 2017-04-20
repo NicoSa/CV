@@ -65,7 +65,7 @@ Code
 - Projects I work and have worked on for Ebay
 
 | [Ebay.co.uk] |
-|:--------------- |:-------- |
+|:--------------- |
 | A brand new shipping product that was in closed beta when I left the company but will soon be available to all sellers in the UK. |
 
   - Public projects I worked on for Shutl
