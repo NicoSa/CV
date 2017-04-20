@@ -39,17 +39,17 @@ Experience
 ----------
 
 ### Freelance Software Engineer, Heidelberg, Germany
-**April 2017&mdash;present**
+**April 2017 - present**
 
 ### Software Engineer at Ebay Shipping Team, London, United Kingdom
-**Feb 2016&mdash;April 2017**
+**Feb 2016 - April 2017**
 
   - Integrating a completely new product into an existing legacy infrastructure utilizing agile practices and approaches
   - Improving existing deployment infrastructure towards continous deployment
   - Pro-active member of an internal engineering excellence initiative to improve testing
 
 ### Software Engineer at Shutl Ltd (Ebay inc.), London, United Kingdom
-**Sept 2014&mdash;April 2017**
+**Sept 2014 - April 2017**
 
   - Developing new mobile and web applications in an agile team
   - Maintaining and extending existing services
@@ -57,7 +57,7 @@ Experience
   - Regular membership of the platform team to improve current monitoring, logging and deployment infrastructure
 
 ### Freelance Audio Engineer, Frankfurt, Germany
-**2010&mdash;2013**
+**2010 - 2013**
 
 Code
 -------------
