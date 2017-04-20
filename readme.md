@@ -6,9 +6,7 @@ Agile Software Developer who wants to continue developing and broadening his ski
 About
 ---------------
 
-I work as a freelance Software Developer based in Heidelberg, Germany. 
-<br>
-Previously I worked in the Ebay Shipping Team on an Agile Transformation as well as a new shipping product integration for the UK market that will be rolled out to other European countries soon. I did this as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering logistics startup that was acquired by Ebay inc. in 2013.
+I work as a freelance Software Developer based in Heidelberg, Germany. Previously I worked in the Ebay Shipping Team on an Agile Transformation as well as a new shipping product integration for the UK market that will be rolled out to other European countries soon. I did this as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering logistics startup that was acquired by Ebay inc. in 2013.
 <br>
 Before I joined Shutl in September 2014 I had enrolled in a London based programming bootcamp called Makers Academy. On completion of the program I earned awards for 'Best blog' and 'Most Entertaining Person'.
 
@@ -86,7 +84,7 @@ Code
 Publications
 ---------
 ### Nico Learns Coding
-**Oct 2013&mdash;present**
+**Oct 2013 - present**
 
   - I wrote my [blog] from the very beginning of my journey to becoming a Software Developer until I got my first job in one of London's top Ruby workshops and startups
   - Earned a "Best Blog" award at Makers Academy
@@ -100,7 +98,7 @@ Publications
 Volunteering
 ---------
 ### Codebar.io
-**Nov 2014&mdash;April 2017**
+**Nov 2014 - April 2017**
 
   - Teaching underrepresented people in the tech industry to code
 
