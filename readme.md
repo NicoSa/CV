@@ -1,52 +1,60 @@
 Nico Saueressig
 =========
 
-Software Developer who wants to continue developing and broadening his skills in agile environments.
+Agile Software Developer who wants to continue developing and broadening his skills in agile environments.
 
 About
 ---------------
 
-I work as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering same-day delivery service that was acquired by Ebay inc. in 2013.
+I work as a freelance Software Developer based in Heidelberg, Germany. Previously I worked in the Ebay Shipping Team on an Agile Transformation as well as a new shipping product integration for the UK market that will be rolled out to other European countries soon. I did this as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering logistics startup that was acquired by Ebay inc. in 2013.
+<br>
 Before I joined Shutl in September 2014 I had enrolled in a London based programming bootcamp called Makers Academy. On completion of the program I earned awards for 'Best blog' and 'Most Entertaining Person'.
-Previously I was an Audio Engineer and Freelancer in Frankfurt, Germany and had been tinkering with programming for some time.
-
 
 Skillset
 ---------------
-**From more to less experience**
 
   - Ruby
   - Sinatra
   - Ruby on Rails
-  - TDD, BDD
+  - Test Driven Development
+  - Javascript
+  - Java
   - Pair programming
   - Agile practices
   - Rspec, Cucumber, Capybara
-  - Javascript
-  - MySQL
-  - MongoDB
+  - MySQL, MongoDB, Neo4J, InfluxDB
   - REST APIs and microservice architectures
   - Devops and infrastructure
   - AWS, Chef, Rundeck, Jenkins, Semaphore
   - Riemann, Nagios
-  - Airbreak, Sentry, InfluxDB
+  - Airbreak, Sentry
   - Google Analytics
   - HTML5, CSS3, Bootstrap, Foundation
   - Angular JS 1
   - Swift/iOS development, Frank, XCtest
   - Clojure, Midje
-  - Java
-  - Neo4J
 
 
 Experience
 ----------
+
+### Freelance Software Engineer, Heidelberg, Germany
+**April 2017&mdash;present**
+
+### Software Engineer at Ebay Shipping Team, London, United Kingdom
+**Feb 2016&mdash;April 2017**
+
+  - Integrating a completely new product into an existing legacy infrastructure utilizing agile practices and approaches
+  - Improving existing deployment infrastructure towards continous deployment
+  - Pro-active member of an internal engineering excellence initiative to improve testing
+
 ### Software Engineer at Shutl Ltd (Ebay inc.), London, United Kingdom
-**Sept 2014&mdash;present**
+**Sept 2014&mdash;April 2017**
 
   - Developing new mobile and web applications in an agile team
   - Maintaining and extending existing services
   - Regular on-call duty as Platform Engineer
+  - Regular membership of the platform team to improve current monitoring, logging and deployment infrastructure
 
 ### Freelance Audio Engineer, Frankfurt, Germany
 **2010&mdash;2013**
@@ -54,7 +62,13 @@ Experience
 Code
 -------------
 
-  - Public projects I work and have worked on for Shutl
+- Projects I work and have worked on for Ebay
+
+| [Ebay.co.uk] |
+|:--------------- |:-------- |
+| A brand new shipping product that was in closed beta when I left the company but will soon be available to all sellers in the UK. |
+
+  - Public projects I worked on for Shutl
 
 | [Shutl.com] | [Shutl iOS app]|
 |:--------------- |:-------- |
@@ -84,7 +98,7 @@ Publications
 Volunteering
 ---------
 ### Codebar.io
-**Nov 2014&mdash;present**
+**Nov 2014&mdash;April 2017**
 
   - Teaching underrepresented people in the tech industry to code
 
@@ -141,4 +155,5 @@ Contact me
   [blog]:http://nicolearnscoding.blogspot.com
   [Repositories on Github]:https://github.com/NicoSa?tab=repositories
   [Shutl.com]:http://shutl.com/uk
+  [Ebay.co.uk]:http://ebay.co.uk
   [Shutl iOS app]:https://itunes.apple.com/gb/app/shutl/id958107403?mt=8
