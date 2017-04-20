@@ -62,7 +62,7 @@ Experience
 Code
 -------------
 
-- Projects I work and have worked on for Ebay
+- Projects I have worked on for Ebay
 
 | [Ebay.co.uk] |
 |:--------------- |
