@@ -12,7 +12,8 @@ Before I joined Shutl in September 2014 I had enrolled in a London based program
 
 Skillset
 ---------------
-
+  
+  - Swift / iOS
   - Ruby
   - Sinatra
   - Ruby on Rails
@@ -31,7 +32,6 @@ Skillset
   - Google Analytics
   - HTML5, CSS3, Bootstrap, Foundation
   - Angular JS 1
-  - Swift/iOS development, Frank, XCtest
   - Clojure, Midje
 
 
@@ -40,6 +40,8 @@ Experience
 
 ### Freelance Software Engineer, Heidelberg, Germany
 **April 2017 - present**
+  
+  - Working with [Blackbelt Labs] on different mobile products such as [Wawibox Dental Marketplace] and [Sketch]
 
 ### Software Engineer at Ebay Shipping Team, London, United Kingdom
 **Feb 2016 - April 2017**
@@ -157,3 +159,6 @@ Contact me
   [Shutl.com]:http://shutl.com/uk
   [Ebay.co.uk]:http://ebay.co.uk
   [Shutl iOS app]:https://itunes.apple.com/gb/app/shutl/id958107403?mt=8
+  [Blackbelt Labs]:https://www.blackbeltlabs.com
+  [Wawibox Dental Marketplace]:https://itunes.apple.com/de/app/wawibox-dentalmarktplatz-und-preisvergleich/id1210728279?mt=8
+  [Sketch]:https://itunes.apple.com/us/app/sketch/id994796483?mt=8
