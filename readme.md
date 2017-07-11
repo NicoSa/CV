@@ -7,9 +7,9 @@ About
 ---------------
 
 I work as a freelance Software Developer based in Heidelberg, Germany.
-<br>
+
 Previously I worked in the Ebay Shipping Team on an Agile Transformation as well as a new shipping product integration for the UK market that will be rolled out to other European countries soon. I did this as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering logistics startup that was acquired by Ebay inc. in 2013.
-<br>
+
 Before I joined Shutl in September 2014 I had enrolled in a London based programming bootcamp called Makers Academy. On completion of the program I earned awards for 'Best blog' and 'Most Entertaining Person'.
 
 Skillset
