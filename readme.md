@@ -1,12 +1,12 @@
 Nico Saueressig
 =========
 
-Agile Software Developer who wants to continue developing and broadening his skills in agile environments.
+Agile Software Developer who wants to continue developing and broadening his skills in exciting environments.
 
 About
 ---------------
 
-I work as a freelance Software Developer based in Heidelberg, Germany.
+I work as a Freelance Software Developer based in Heidelberg, Germany.
 
 Previously I worked in the Ebay Shipping Team on an Agile Transformation as well as a new shipping product integration for the UK market that will be rolled out to other European countries soon. I did this as a Software Developer for Shutl Ltd. in London. Shutl is a pioneering logistics startup that was acquired by Ebay inc. in 2013.
 
@@ -16,6 +16,7 @@ Skillset
 ---------------
   
   - Swift / iOS
+  - Node JS
   - Ruby
   - Sinatra
   - Ruby on Rails
@@ -43,7 +44,8 @@ Experience
 ### Freelance Software Engineer, Heidelberg, Germany
 **April 2017 - present**
   
-  - Working with [Blackbelt Labs] on different mobile products such as [Wawibox Dental Marketplace] and [Sketch]
+  - Working with [Blackbelt Labs] on different iOS mobile applications such as [Wawibox], [Sketch] and [Entangled]
+  - Implementing backend solutions in Node JS for projects like [Entangled]
 
 ### Software Engineer at Ebay Shipping Team, London, United Kingdom
 **Feb 2016 - April 2017**
@@ -65,6 +67,11 @@ Experience
 
 Code
 -------------
+- Projects I have worked for as a freelancer
+
+| [Wawibox] | [Entangled] | [Sketch] |
+|:--------------- |:--------------- |:--------------- |
+| Wawibox is marketplace for dental medicine and I wrote parts of their iOS app in Swift. | Entangled is a scientifc research app backed by people ranging from Princeton to Disney and Pixar. I wrote bits of the iOS app in Swift and some of the Node JS backend. | Sketch is a messenger that uses drawing for communication. I revived the app for a client and added some functionalities. |
 
 - Projects I have worked on for Ebay
 
@@ -76,21 +83,22 @@ Code
 
 | [Shutl.com] | [Shutl iOS app]|
 |:--------------- |:-------- |
-| New corporate website, fully responsive and test-driven Rails app that allows C2C customers to book Shutl same day deliveries.| IOS app written in Swift with a Clojure backend that allows users to track their deliveries. |
+| IOS app written in Swift with a Clojure backend that allows users to track their deliveries. | New corporate website, fully responsive and test-driven Rails app that allows C2C customers to book Shutl same day deliveries.|
 
 
   - Projects from my time at Makers Academy
 
-| [Angry Kitty] | [Pizza Poser] | [Chitter] |
-|:--------------- |:-------- |:--------- |
-| Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.| Ruby on Rails Instagram clone that is focussed on posting pictures of Pizzas. | Basic Sinatra Twitter clone, frontend developed without using Bootstrap. |
+| [Angry Kitty] | 
+|:--------------- |
+| Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.|
 
 Publications
 ---------
 ### Nico Learns Coding
 **Oct 2013 - present**
 
-  - I wrote my [blog] from the very beginning of my journey to becoming a Software Developer until I got my first job in one of London's top Ruby workshops and startups
+  - New blog on [Medium] where I blog about both personal and technical subjects
+  - I wrote my old [blog] from the very beginning of my journey to becoming a Software Developer until I got my first job in one of London's top Ruby workshops and startups
   - Earned a "Best Blog" award at Makers Academy
   - Still about 500 unique visitors every month
 
@@ -162,5 +170,8 @@ Contact me
   [Ebay.co.uk]:http://ebay.co.uk
   [Shutl iOS app]:https://itunes.apple.com/gb/app/shutl/id958107403?mt=8
   [Blackbelt Labs]:https://www.blackbeltlabs.com
-  [Wawibox Dental Marketplace]:https://itunes.apple.com/de/app/wawibox-dentalmarktplatz-und-preisvergleich/id1210728279?mt=8
+  [Wawibox]:https://itunes.apple.com/de/app/wawibox-dentalmarktplatz-und-preisvergleich/id1210728279?mt=8
   [Sketch]:https://itunes.apple.com/us/app/sketch/id994796483?mt=8
+  [Entangled]:http://www.consciousness-app.com
+  [Medium]:https://medium.com/@Nicolrnscodin
+  [Blackbelt Labs]:https://www.blackbeltlabs.com
